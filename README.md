@@ -15,6 +15,6 @@ Through interactive dashboards and visualizations, the project provides insights
 
 ## Tools and Technologies
 
-- Tableau – Data visualization and dashboard creation
+- Tableau – Data visualization and Dashboard,Story creation
 - Excel / CSV Dataset – Data source
 - Data Cleaning & Transformation – Tableau Public
